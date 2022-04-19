@@ -1,0 +1,5 @@
+dependencies:
+  - name: shippingservice
+    version: 0.0.4
+    repository: >-
+      http://artifactory-artifactory.tools:8082/artifactory/generic-local/multi-cloud-dev
