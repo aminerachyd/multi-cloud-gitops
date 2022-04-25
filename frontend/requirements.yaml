@@ -1,5 +1,4 @@
 dependencies:
   - name: frontend
     version: 0.0.10
-    repository: >-
-      http://artifactory-artifactory.tools:8082/artifactory/generic-local/multi-cloud-dev
+    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/with-x86
