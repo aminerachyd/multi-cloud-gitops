@@ -1,4 +1,4 @@
 dependencies:
   - name: cartservice
-    version: 0.0.16
+    version: 0.0.18
     repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/multi-cloud-dev
